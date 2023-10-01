@@ -1,14 +1,12 @@
 ## 📢 Virtual Lab : Labs
 
-* **Download the latest version of VirtualBox: https://www.virtualbox.org/wiki/Downloads**
-    * If you want you can use other virtualization tools like VMware Fusion, VMware Player, VMware Workstation, etc. but without assurance that everything works. 
-Many tests were carried out on VirtualBox.
-
-* **Download the latest version of Kali: https://www.kali.org/get-kali/#kali-virtual-machines**
-    * username: **kali**
-    * password: **kali**
-    * I recommand you a "NAT Network" for all VM labs and Kali machines with a specific name and a specific IP range. 
-    * To change QWERTY in AZERTY you can use "setxkbmap fr" (volatile config) or "sudo dpkg-reconfigure keyboard-configuration" (non-volatile config).
+| VM number  | Difficulty |  Licence |  Master |  Targets |  Tags |  Link |
+| :---: | :---: | :---: | :---: | ------------- | ------------- | ------------- |
+| 207  | Easy  | x  | x  | Find target IP address, list all open ports, services and version, find 8 vulnerabilities flags beginning by "FLAG{". <br> For each flag found, write on your report "FLAG_x :" and explain how did you find it.  | NA  | https://www.vulnhub.com/entry/rickdiculouslyeasy-1,207/  |
+| 710  | Medium  | -  | x  | gain access, root  | Reconnaissance, exploit, privilege escalation  | https://www.vulnhub.com/entry/vulncms-1,710/  |
+| 216  | Medium  | x  | x  | webadmin, gain access, root  | Reconnaissance, brute force, exploit, web, privilege escalation  | https://www.vulnhub.com/entry/basic-pentesting-1,216/  |
+| 80  | Medium  | -  | x  | gain access, root  | Reconnaissance, SQLi, exploit  | https://www.vulnhub.com/entry/pentester-lab-from-sql-injection-to-shell,80/  |
+| 546  | Hard  | -  | x  | webadmin, gain access, root  | Reconnaissance, brute force, exploit, web, privilege escalation  | https://www.vulnhub.com/entry/funbox-ctf,546/  |
 
 * **Easy** :
     * **VM_207: https://www.vulnhub.com/entry/rickdiculouslyeasy-1,207/**
@@ -34,6 +32,19 @@ Many tests were carried out on VirtualBox.
         - [+] Targets: webadmin, gain access, root
         - [+] Level: Master 
 
+## 📢 VirtualBox
+### Download and Install VirtualBox ###
+
+* **Download the latest version of VirtualBox: https://www.virtualbox.org/wiki/Downloads**
+    * If you want you can use other virtualization tools like VMware Fusion, VMware Player, VMware Workstation, etc. but without assurance that everything works. 
+Many tests were carried out on VirtualBox.
+
+* **Download the latest version of Kali: https://www.kali.org/get-kali/#kali-virtual-machines**
+    * username: **kali**
+    * password: **kali**
+    * I recommand you a "NAT Network" for all VM labs and Kali machines with a specific name and a specific IP range. 
+    * To change QWERTY in AZERTY you can use "setxkbmap fr" (volatile config) or "sudo dpkg-reconfigure keyboard-configuration" (non-volatile config).
+
 ### Setup your environment ###
 * **Create a NAT Network using VirtualBox GUI**
 
@@ -51,3 +62,9 @@ Many tests were carried out on VirtualBox.
 **1. Once you have created NAT Network, assign the same for the VM Network.**
 ![image](https://user-images.githubusercontent.com/5543119/164250865-b3733244-6b80-441c-b52f-ae3e1b4b27a4.png)
 
+## 📢 Kali
+### Download and Install Kali ###
+* **Download the latest version of Kali: https://www.kali.org/get-kali/#kali-virtual-machines**
+    * username: **kali**
+    * password: **kali**
+    * To change QWERTY in AZERTY you can use "setxkbmap fr" (volatile config) or "sudo dpkg-reconfigure keyboard-configuration" (non-volatile config).
