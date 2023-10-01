@@ -14,10 +14,25 @@ Many tests were carried out on VirtualBox.
     * **VM_207: https://www.vulnhub.com/entry/rickdiculouslyeasy-1,207/**
         - [+] Targets: Find target IP address, list all open ports, services and version, find 8 vulnerabilities flags beginning by "FLAG{"
         - [+] For each flag found, write on your report "FLAG_x :" and explain how did you find it.
-* **Medium** :      
+        - [+] Level: Licence and Master 
+* **Medium** :           
+    * **VM_710: https://www.vulnhub.com/entry/vulncms-1,710/**
+        - [+] Tags: Reconnaissance, exploit, privilege escalation
+        - [+] Targets: gain access, root
+        - [+] Level: Master 
     * **VM_216: https://www.vulnhub.com/entry/basic-pentesting-1,216/**
         - [+] Tags: Reconnaissance, brute force, exploit, web, privilege escalation
         - [+] Targets: webadmin, gain access, root
+        - [+] Level: Licence and Master 
+    * **VM_80: https://www.vulnhub.com/entry/pentester-lab-from-sql-injection-to-shell,80/**
+        - [+] Tags: Reconnaissance, SQLi, exploit
+        - [+] Targets: gain access, root
+        - [+] Level: Master 
+* **Hard** : 
+    * **VM_546: https://www.vulnhub.com/entry/funbox-ctf,546/**
+        - [+] Tags: Reconnaissance, brute force, exploit, web, privilege escalation
+        - [+] Targets: webadmin, gain access, root
+        - [+] Level: Master 
 
 ### Setup your environment ###
 * **Create a NAT Network using VirtualBox GUI**
