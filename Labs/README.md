@@ -51,8 +51,3 @@ Many tests were carried out on VirtualBox.
 **1. Once you have created NAT Network, assign the same for the VM Network.**
 ![image](https://user-images.githubusercontent.com/5543119/164250865-b3733244-6b80-441c-b52f-ae3e1b4b27a4.png)
 
-## 📢 Planning :
-   * **Thursday 2 March: 8 hours**
-   * **Thursday 9 March: 7 hours**
-   * **Thursday 16 March: 7 hours**
-   * **Thursday 30 March: 6 hours**
