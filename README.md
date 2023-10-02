@@ -23,37 +23,37 @@
 
 * **What to do on RootMe :**
     * App-Script
-        - Bash - System 1
-        - sudo - faiblesse de configuration
+      * Bash - System 1
+      * sudo - faiblesse de configuration
     * Cracking	
-        - ELF x86 - 0 protection
+      * ELF x86 - 0 protection
     * Cryptanalyse
-        - Encodage - UU	
-        - Hash - Message Digest 5
-    * Forensic	
-        - Fichier supprimé	
-        - Command & Control - niveau 2
+      * Encodage - UU	
+      * Hash - Message Digest 5
+    * Forensic
+      * Fichier supprimé
+      * Command & Control - niveau 2
     * Programmation
-        - TCP - Retour au collège
+      * TCP - Retour au collège
     * Réaliste	
-        - Eh oui, parfois
-    * Réseau	
-        - FTP - Authentification
-        - TELNET - authentification	
-        - ETHERNET - trame	
-	- Authentification twitter
+      * Eh oui, parfois
+    * Réseau
+      * FTP - Authentification
+      * TELNET - authentification
+      * ETHERNET - trame
+      * Authentification twitter
     * Stéganographie	
-	- Point à la ligne	
-	- Steganomobile
-    * Web - Client		
-	- HTML - boutons désactivés	
-	- Javascript - Authentification	
-	- Javascript - Source	
-	- Javascript - Authentification 2	
-	- Javascript - Obfuscation 1
-    * Web - Serveur	
-	- HTML - Code source	
-	- HTTP - Contournement de filtrage IP	
-	- HTTP - Open redirect	
-	- HTTP - User-agent	
-	- Mot de passe faible	
+      * Point à la ligne
+      * Steganomobile
+    * Web - Client
+      * HTML - boutons désactivés
+      * Javascript - Authentification	
+      * Javascript - Source	
+      * Javascript - Authentification 2	
+      * Javascript - Obfuscation 1
+    * Web - Serveur
+      * HTML - Code source	
+      * HTTP - Contournement de filtrage IP
+      * HTTP - Open redirect
+      * HTTP - User-agent
+      * Mot de passe faible	
