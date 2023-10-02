@@ -11,8 +11,8 @@
 * **Rating :**
     * **Exam (50%) QCM with about 100 questions**
     * **Report (20%) a procedure about certificate TP (create and install certificate + secure your website)**
-    * **Report (10%) for all VM (explain each step and provide explanations so that the reader who doesn't know the subject can understand what you have done)**
-    * **Report (30%) for all VM (explain each step and provide explanations so that the reader who doesn't know the subject can understand what you have done)**
+    * **Report (20%) for all TryHackMe challenges listed bellow the planning a little explanation of what you did with screenshots****
+    * **Report (10%) for all RootMe challenges listed bellow the planning a little explanation of what you did with screenshots**
 
 | Date  | Start - End |  Activities |
 | :---: | :---------: | ------------- |
@@ -21,6 +21,9 @@
 | 05/10/2023  | 8h00 - 12h00 <br> 13h00 - 15h00  | lab 6h  |
 | 06/10/2023  | 9h00 - 12h30 <br> 14h00 - 16h00  | lab 3h30 and exam 2h  |
 
+* **What to do on TryHackMe :**
+    * Nmap : https://tryhackme.com/room/furthernmap
+      
 * **What to do on RootMe :**
     * App-Script
       * Bash - System 1
