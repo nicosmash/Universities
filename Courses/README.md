@@ -1,3 +1,8 @@
+## 📢 Legend :
+:heavy_check_mark: : To learn / To do for the overall rating 
+:information_source: : Learn only what was seen in class
+:x: : Not to learn / No to do
+
 ## 📢 What you have to do :
 
 | ID  | Licence  | Master |  Link |
