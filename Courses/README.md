@@ -1,6 +1,6 @@
 ## 📢 Legend :
-:heavy_check_mark: : To learn / To do for the overall rating 
-:information_source: : Learn only what was seen in class
+:heavy_check_mark: : To learn / To do for the overall rating <br>
+:information_source: : Learn only what was seen in class <br>
 :x: : Not to learn / No to do
 
 ## 📢 What you have to do :
