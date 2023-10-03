@@ -3,7 +3,7 @@
 | ID  | Licence  | Master |  Link |
 | :---: | :---: | :---: | ------------- |
 | 01  | :heavy_check_mark:  | :heavy_check_mark:  | https://github.com/nicosmash/Universities/blob/main/Courses/01_Intro_Cybersecurity_29092022.pdf  |
-| 02  | :heavy_check_mark:  | :heavy_check_mark:  | https://github.com/nicosmash/Universities/blob/main/Courses/02_Footprinting_Reconnaissance_07062022.pdf  |
+| 02  | :heavy_check_mark:  | :heavy_check_mark:  | https://github.com/nicosmash/Universities/blob/main/Courses/02_Footprinting_Reconnaissance_03102023.pdf  |
 | 03  | :information_source:  | :heavy_check_mark:  | https://github.com/nicosmash/Universities/blob/main/Courses/03_Basics_of_hacking_Intro_29092022.pdf  |
 | 05  | :heavy_check_mark:  | :heavy_check_mark:  | https://github.com/nicosmash/Universities/blob/main/Courses/05_Basics_of_hacking_NMAP_29092022.pdf  |
 | 06  | :heavy_check_mark:  | :heavy_check_mark:  | https://github.com/nicosmash/Universities/blob/main/Courses/06_Basics_of_hacking_Exploit_RFI_LFI%20_DPT_28022022.pdf  |
