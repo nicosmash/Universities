@@ -10,9 +10,9 @@
 | 07  | :heavy_check_mark:  | :heavy_check_mark:  | https://github.com/nicosmash/Universities/blob/main/Courses/07_Basics_of_hacking_Exploit_SQLi_BURP_20062022.pdf  |
 | 08  | :heavy_check_mark:  | :heavy_check_mark:  | https://github.com/nicosmash/Universities/blob/main/Courses/08_Basics_of_hacking_Tools_11062022.pdf  |
 | 50  | :heavy_check_mark:  | :x:  | https://github.com/nicosmash/Universities/blob/main/Courses/50_Crypto_History_Intro_16032023.pdf  |
-| 51  | :heavy_check_mark:  | :x:  | https://github.com/nicosmash/Universities/blob/main/Courses/51_Crypto_Encryption_Types_16032023.pdf  |
-| 52  | :heavy_check_mark:  | :x:  | https://github.com/nicosmash/Universities/blob/main/Courses/52_Crypto_Cipher_Types_16032023.pdf  |
-| 53  | :heavy_check_mark:  | :x:  | https://github.com/nicosmash/Universities/blob/main/Courses/53_Crypto_Hashs_16032023.pdf  |
+| 51  | :information_source:  | :x:  | https://github.com/nicosmash/Universities/blob/main/Courses/51_Crypto_Encryption_Types_16032023.pdf  |
+| 52  | :information_source:  | :x:  | https://github.com/nicosmash/Universities/blob/main/Courses/52_Crypto_Cipher_Types_16032023.pdf  |
+| 53  | :information_source:  | :x:  | https://github.com/nicosmash/Universities/blob/main/Courses/53_Crypto_Hashs_16032023.pdf  |
 | 54  | :heavy_check_mark:  | :x:  | https://github.com/nicosmash/Universities/blob/main/Courses/54_Crypto_Stegano_16032023.pdf  |
-| 55  | :heavy_check_mark:  | :x:  | https://github.com/nicosmash/Universities/blob/main/Courses/55_PKI_16032023.pdf  |
+| 55  | :information_source:  | :x:  | https://github.com/nicosmash/Universities/blob/main/Courses/55_PKI_16032023.pdf  |
 | 99  | :information_source:  | :information_source:  | https://github.com/nicosmash/Universities/blob/main/Courses/99_Passive_Reco_Zone_Transfert_08062022.pdf  |
