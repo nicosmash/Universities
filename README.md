@@ -6,7 +6,7 @@
 * Courses : https://github.com/nicosmash/Universities/blob/main/Courses/README.md
 * Labs : https://github.com/nicosmash/Universities/blob/main/Labs/README.md
 
-## 📢 L3 "Crypto and security" : 28 hours
+## 📢 L3 "Crypto and security" :
 
 * **Rating :**
     * **Exam (50%) QCM with about 100 questions**
@@ -17,12 +17,15 @@
 | Date  | Start - End |  Activities |
 | :---: | :---------: | ------------- |
 | 02/10/2023  | 9h00 - 12h00 <br> 13h00 - 16h00  | course 6h |
-| 03/10/2023  | 8h00 - 12h00 <br> 13h00 - 15h00  | lab 6h  |
-| 05/10/2023  | 8h00 - 12h00 <br> 13h00 - 15h00  | lab 6h  |
+| 03/10/2023  | 8h30 - 12h00 <br> 13h00 - 15h00  | lab 5h30  |
+| 05/10/2023  | 8h30 - 12h00 <br> 13h00 - 15h00  | lab 5h30  |
 | 06/10/2023  | 9h00 - 12h30 <br> 14h00 - 16h00  | lab 3h30 and exam 2h  |
 
 * **What to do on TryHackMe :**
     * Nmap : https://tryhackme.com/room/furthernmap
+    * Burp : https://tryhackme.com/room/burpsuitebasics
+    * SQLmap : https://tryhackme.com/room/sqlmap
+    * Metasploit : https://tryhackme.com/room/metasploitintro
       
 * **What to do on RootMe :**
     * App-Script
