@@ -22,10 +22,13 @@
 | 06/10/2023  | 9h00 - 12h30 <br> 14h00 - 16h00  | lab 3h30 and exam 2h  |
 
 * **What to do on TryHackMe :**
-    * Nmap : https://tryhackme.com/room/furthernmap
-    * Burp : https://tryhackme.com/room/burpsuitebasics
-    * SQLmap : https://tryhackme.com/room/sqlmap
-    * Metasploit : https://tryhackme.com/room/metasploitintro
+
+| Licence | Master  | Tool |  Link |
+| :---: | :---: | :---: | ------------- |
+| :heavy_check_mark:  | :heavy_check_mark:  | Nmap  | https://tryhackme.com/room/furthernmap  |
+| :heavy_check_mark:  | :heavy_check_mark:  | Burp  | https://tryhackme.com/room/burpsuitebasics  |
+| :heavy_check_mark:  | :heavy_check_mark:  | SQLmap  | https://tryhackme.com/room/sqlmap  |
+| :heavy_check_mark:  | :heavy_check_mark:  | Metasploit  | https://tryhackme.com/room/metasploitintro  |
       
 * **What to do on RootMe :**
     * App-Script
