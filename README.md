@@ -54,6 +54,7 @@
     * Stéganographie	
       * Point à la ligne
       * Steganomobile
+      * TXT - George et Alfred
     * Web - Client
       * HTML - boutons désactivés
       * Javascript - Authentification	
