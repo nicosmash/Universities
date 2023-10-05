@@ -9,9 +9,9 @@
 ## 📢 L3 "Crypto and security" :
 
 * **Rating :**
-    * **Exam (50%) QCM with about 100 questions**
-    * **Report (20%) a procedure about certificate TP (create and install certificate + secure your website)**
-    * **Report (20%) for all TryHackMe challenges listed bellow the planning a little explanation of what you did with screenshots****
+    * **Exam (50%) QCM with about 100 questions** <br>
+    * ~~**Report (20%) a procedure about certificate TP (create and install certificate + secure your website)**~~
+    * **Report (40%) for all TryHackMe challenges listed bellow the planning a little explanation of what you did with screenshots****
     * **Report (10%) for all RootMe challenges listed bellow the planning a little explanation of what you did with screenshots**
 
 | Date  | Start - End |  Activities |
