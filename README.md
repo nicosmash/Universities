@@ -6,12 +6,67 @@
 * Courses : https://github.com/nicosmash/Universities/blob/main/Courses/README.md
 * Labs : https://github.com/nicosmash/Universities/blob/main/Labs/README.md
 
+## 📢 IMT Alès "Promotion 1" :
+
+* **Rating:**
+    * **Exam (50%) QCM with about 100 questions**
+    * **Report (40%) Create a report for all VM and oral presentation**
+    * **Report (10%) Create a report about TDs**
+
+| Date  | Start - End |  Activities |
+| :---: | :---------: | ------------- |
+| 19/10/2023  | 8h30 - 12h15 <br> 13h30 - 17h15  | Salle B204 : 7h30 |
+| 20/10/2023  | 8h30 - 11h30 <br> 13h00 - 17h30  | Salle B213 : 7h30 |
+| 13/11/2023  | 8h30 - 12h15 <br> 13h30 - 17h15  | Salle - : 7h30 |
+| 14/11/2023  | 8h30 - 12h15 <br> 13h30 - 17h15  | Salle - : 7h30 |
+| 20/11/2023  | 8h30 - 12h15 <br> 13h30 - 17h15  | Salle - : 7h30 |
+| 21/11/2023  | 8h30 - 12h15 <br> 13h30 - 17h15  | Salle - : 7h30 |
+
+## 📢 IMT Alès "Promotion 2" :
+
+* **Rating:**
+    * **Exam (50%) QCM with about 100 questions**
+    * **Report (40%) Create a report for all VM and oral presentation**
+    * **Report (10%) Create a report about TDs**
+
+| Date  | Start - End |  Activities |
+| :---: | :---------: | ------------- |
+| 30/10/2023  | 8h30 - 12h15 <br> 13h30 - 17h15  | Salle - : 7h30 |
+| 31/10/2023  | 8h30 - 11h30 <br> 13h00 - 17h30  | Salle - : 7h30 |
+| 02/11/2023  | 8h30 - 12h30  | Salle - : 4h |
+| 03/11/2023  | 8h30 - 12h30 <br> 13h30 - 17h30  | Salle - : 8h |
+| 08/11/2023  | 13h30 - 17h30  | Salle - : 4h |
+| 10/11/2023  | 8h30 - 12h30 <br> 13h30 - 17h30  | Salle - : 8h |
+
+## 📢 M2 "CERI Avignon" :
+
+* **Rating UCE 2 : Sécurité des services Web**
+    * **Exam (50%) QCM with about 100 questions**
+    * **Report (40%) Create a report for all VM and oral presentation**
+    * **Report (10%) Create a report about TDs**
+
+| Date  | Start - End |  Activities |
+| :---: | :---------: | ------------- |
+| 26/10/2023  | 8h30 - 11h30 <br> 13h00 - 17h30  | Salle 4 : 3h <br> C 131 : 4h30 |
+| 23/11/2023  | 8h30 - 11h30 <br> 13h00 - 17h30  | Salle 4 : 3h <br> C 131 : 4h30 |
+| 30/11/2023  | 10h00 - 11h30 <br> 13h00 - 17h30  | Salle 4 : 1h30 <br> C 131 : 4h30 |
+
+* **Rating UCE 4 : Application** : https://github.com/nicosmash/Universities/tree/main/Applications
+    * **Exam (100%) Create a report for your application**
+
+| Date  | Start - End |  Activities |
+| :---: | :---------: | ------------- |
+| 24/10/2023  | 8h30 - 11h30 <br> 13h00 - 16h00  | C 132 Reseaux : 6h |
+| 25/10/2023  | 13h00 - 17h30  | C 132 Reseaux : 4h30 |
+| 27/10/2023  | 10h00 - 13h00 <br> 14h30 - 17h30  | C 132 Reseaux : 6h |
+| 22/11/2023  | 13h00 - 17h30  | C 132 Reseaux : 4h30 |
+
 ## 📢 L3 "Crypto and security" :
 
 * **Rating :**
     * **Exam (50%) QCM with about 100 questions** <br>
     * ~~**Report (20%) a procedure about certificate TP (create and install certificate + secure your website)**~~
-    * **Report (40%) for all TryHackMe challenges listed bellow the planning a little explanation of what you did with screenshots****
+    * **Report (40%) for all TryHackMe challenges listed bellow the planning a little explanation of what you did with screenshots**
     * **Report (10%) for all RootMe challenges listed bellow the planning a little explanation of what you did with screenshots**
 
 | Date  | Start - End |  Activities |
