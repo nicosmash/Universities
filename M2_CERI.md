@@ -9,7 +9,11 @@
 ## 📢 Rating UCE 2 : Sécurité des services Web :
 * Exam (50%) QCM with about 100 questions
 * Report (40%) Create a report for all VM and oral presentation
-* Report (10%) Create a report about TDs
+* Report (10%) Create a report for all TryHackMe challenges listed bellow the planning a little explanation of what you did with screenshots
+    * Nmap : https://tryhackme.com/room/furthernmap
+    * Burp : https://tryhackme.com/room/burpsuitebasics
+    * SQLmap : https://tryhackme.com/room/sqlmap
+    * Metasploit : https://tryhackme.com/room/metasploitintro 
 
 ## 📢 Rating UCE 4 : Application :
 * Exam (100%) Create a report for your application : https://github.com/nicosmash/Universities/tree/main/Applications
