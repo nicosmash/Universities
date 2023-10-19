@@ -2,14 +2,9 @@
 
 ## 📢 Information for all students
 
-* SR :
-   * Discord link if you have any questions for SR Group : https://discord.gg/VEGK8ErNm5
-   * Teams Link for SR : xxx
-* DL :
-   * Discord link if you have any questions for DL Group : https://discord.gg/VEGK8ErNm5
-   * Teams Link for DL : xxx
-</br>
-* If you are having difficulty ask your teacher for the Discord link.
+* Teams Link for SR : xxx
+* Teams Link for DL : xxx
+* If you are having difficulty ask your teacher for the Discord link : https://discord.gg/VEGK8ErNm5
 * Courses : https://github.com/nicosmash/Universities/blob/main/Courses/README.md
 * Labs : https://github.com/nicosmash/Universities/blob/main/Labs/README.md
 
