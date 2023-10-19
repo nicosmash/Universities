@@ -9,7 +9,7 @@
 ## 📢 Rating :
 * Exam (50%) QCM with about 100 questions
 * Report (40%) Create a report for all VM and oral presentation
-* Report (10%) Create a report about TDs
+* Report (10%) Create a report about mini-lab on TryHackMe
 
 ## 📢 Work schedule :
 | Date  | Start - End |  Activities |
