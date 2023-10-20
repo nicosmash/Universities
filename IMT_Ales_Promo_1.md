@@ -18,11 +18,11 @@
     * Metasploit : https://tryhackme.com/room/metasploitintro 
 
 ## 📢 Work schedule :
-| Date  | Start - End |  Activities |
+| SR  | Date  | Start - End |  Activities |
 | :---: | :---------: | ------------- |
-| 19/10/2023  | 8h30 - 12h15 <br> 13h30 - 17h15  | Salle B204 : 7h30 |
-| 20/10/2023  | 8h30 - 11h30 <br> 13h00 - 17h30  | Salle B213 : 7h30 |
-| 13/11/2023  | 8h30 - 12h15 <br> 13h30 - 17h15  | Salle - : 7h30 |
-| 14/11/2023  | 8h30 - 12h15 <br> 13h30 - 17h15  | Salle - : 7h30 |
-| 20/11/2023  | 8h30 - 12h15 <br> 13h30 - 17h15  | Salle - : 7h30 |
-| 21/11/2023  | 8h30 - 12h15 <br> 13h30 - 17h15  | Salle - : 7h30 |
+| SR  | 8h30 - 12h15 <br> 13h30 - 17h15  | Salle B204 : 7h30 |
+| DL  | 8h30 - 12h00 <br> 13h00 - 15h00  | Salle B213 : 7h30 |
+| SR  | 8h30 - 12h15 <br> 13h30 - 17h15  | Salle - : 5h30 |
+| DL  | 8h00 - 12h15 <br> 13h00 - 17h15  | Salle - : 8h30 |
+| SR  | 8h30 - 12h15 <br> 13h30 - 17h15  | Salle - : 7h30 |
+| DL  | 8h30 - 12h15 <br> 13h00 - 17h15  | Salle - : 7h30 |
