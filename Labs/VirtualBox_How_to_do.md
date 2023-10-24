@@ -11,10 +11,14 @@ Many tests were carried out on VirtualBox.
     * I recommand you a "NAT Network" for all VM labs and Kali machines with a specific name and a specific IP range. 
     * To change QWERTY in AZERTY you can use "setxkbmap fr" (volatile config) or "sudo dpkg-reconfigure keyboard-configuration" (non-volatile config).
 
+For a better understanding, here is a network diagram:
+![nat_network_sheme](https://github.com/nicosmash/Universities/assets/5543119/415b1e20-6f2b-42b9-81d5-fc1e56846a4f)
+
 ### Setup your environment ###
 * **Create a NAT Network using VirtualBox GUI**
 
-**1. Open VirtualBox Preferences (File -> Preferences) and go to Network Tab.**
+**1. Open VirtualBox Preferences (File -> Preferences) and go to Network Tab. <br> 
+On some versions of virtualbox you must have to go to File -> Tools -> Network Manager**
 ![image](https://user-images.githubusercontent.com/5543119/164250582-571514ea-03b7-4854-8cb7-d7181ba461b4.png)
 
 **2. Click on the + icon on right side (Adds new NAT network). It will create a new NAT Network without asking any questions.**
