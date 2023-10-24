@@ -2,7 +2,7 @@
 
 ## 📢 Information for all students
 
-* If you are having difficulty ask your teacher for the Discord link.
+* If you are having difficulty ask your teacher for the Discord link : http://discord.gg/yMAGUNtKbS
 * Courses : https://github.com/nicosmash/Universities/blob/main/Courses/README.md
 * Labs : https://github.com/nicosmash/Universities/blob/main/Labs/README.md
 
