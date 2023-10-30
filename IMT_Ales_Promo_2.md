@@ -18,11 +18,15 @@
     * Metasploit : https://tryhackme.com/room/metasploitintro 
 
 ## 📢 Work schedule :
-| Date  | Start - End |  Activities |
-| :---: | :---------: | ------------- |
-| 30/10/2023  | 8h30 - 12h15 <br> 13h30 - 17h15  | Salle - : 7h30 |
-| 31/10/2023  | 8h30 - 11h30 <br> 13h00 - 17h30  | Salle - : 7h30 |
-| 02/11/2023  | 8h30 - 12h30  | Salle - : 4h |
-| 03/11/2023  | 8h30 - 12h30 <br> 13h30 - 17h30  | Salle - : 8h |
-| 08/11/2023  | 13h30 - 17h30  | Salle - : 4h |
-| 10/11/2023  | 8h30 - 12h30 <br> 13h30 - 17h30  | Salle - : 8h |
+| Class  | Date  | Start - End |  Activities |
+| :---: | :---: | :---------: | ------------- |
+| DL et SR  | 30/10/2023  | 8h45 - 12h15 | Salle M162 : 3h30 |
+| DL  | 30/10/2023  | 13h30 - 17h30  | Salle M163 : 4h |
+| SR  | 31/10/2023  | 8h30 - 12h30 | Salle M163 : 4h |
+| DL et SR  | 31/10/2023  | 14h00 - 17h30  | Salle M162 : 3h30 |
+| DL  | 02/11/2023  | 8h30 - 12h30  | Salle - : 4h |
+| SR  | 03/11/2023  | 8h30 - 12h30 | Salle - : 4h |
+| DL  | 03/11/2023  | 13h30 - 17h30  | Salle - : 4h |
+| SR  | 08/11/2023  | 13h30 - 17h30  | Salle - : 4h |
+| DL  | 10/11/2023  | 8h30 - 12h30 | Salle - : 4h |
+| SR  | 10/11/2023  | 8h30 - 12h30 | Salle - : 4h |
