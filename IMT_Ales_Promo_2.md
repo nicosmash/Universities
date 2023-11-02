@@ -2,8 +2,7 @@
 
 ## 📢 Information for all students
 
-* Teams Link for SR : xxx
-* Teams Link for DL : xxx
+* Teams Link : https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWI2YzFjMDMtMWU3Yi00MWM5LTgxZGEtMzU4MTdkNmVkOTIx%40thread.v2/0?context=%7b%22Tid%22%3a%22fb3baf17-c313-474c-8d5d-577a3ec97a32%22%2c%22Oid%22%3a%22a555e559-d61b-4a5c-9fcc-ba130e93aa72%22%7d
 * If you are having difficulty ask your teacher for the Discord link : https://discord.gg/VKGvmN9YVj
 * Courses : https://github.com/nicosmash/Universities/blob/main/Courses/README.md
 * Labs : https://github.com/nicosmash/Universities/blob/main/Labs/README.md
