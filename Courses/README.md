@@ -6,7 +6,7 @@
 ## 📢 What you have to do :
 
 | ID  | Licence  | M2 SYRIUS | M2 ILSEN | IMT |  Link |
-| :---: | :---: | :---: | ------------- |
+| :---: | :---: | :---: | :---: | :---: | ------------- |
 | 01  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  |  https://github.com/nicosmash/Universities/blob/main/Courses/01_Intro_Cybersecurity_2024.pdf  |
 | 02  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  |  https://github.com/nicosmash/Universities/blob/main/Courses/02_Reconnaissance_2024.pdf  |
 | 03  | :information_source:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  |  https://github.com/nicosmash/Universities/blob/main/Courses/03_Basics_of_hacking_Intro_2024.pdf  |
