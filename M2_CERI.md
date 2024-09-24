@@ -6,12 +6,11 @@
     * SYRIUS : https://discord.gg/Ga4CQJfm
     * ILSEN : https://discord.gg/fjjjneGZ
 * Courses : https://github.com/nicosmash/Universities/blob/main/Courses/README.md
-* Labs / VM : https://github.com/nicosmash/Universities/blob/main/Labs/README.md
 
 ## 📢 Rating UCE : 
 * Exam (50%) QCM with about 100 questions
-* Report (40%) Create a report for all Labs / VM and oral presentation
-* Report (10%) Create a report for all TryHackMe / rootme challenges listed bellow the planning a little explanation of what you did with screenshots
+* Report (40%) Create a report for all Labs / VM and oral presentation : https://github.com/nicosmash/Universities/blob/main/Labs/VirtualLab_What_to_do.md
+* Report (10%) Create a report for all TryHackMe / rootme challenges listed below, with an explanation of what you did and how with screenshots
 
 | WEBSITE | Module | M2 SYRIUS |  M2 ILSEN |  URL |
 | :---: | :---: | :---: | :---: | ------------- |
