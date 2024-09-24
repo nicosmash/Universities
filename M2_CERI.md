@@ -48,6 +48,7 @@
 | 03/12/2024  | 16h00 - 17h30 | 1h30 | :heavy_check_mark: | :x: | Course + Lab |
 | 04/12/2024  | 11h30 - 13h00 | 1h30 | :heavy_check_mark: | :heavy_check_mark: | Exam |
 | 04/12/2024  | 14h30 - 17h30 | 3h | :heavy_check_mark: | :x: | Lab |
+| 05/12/2024  | 16h00 - 19h00 | 3h | :heavy_check_mark: | :x: | Lab |
 
 ## 📢 Work schedule M2 SYRIUS :
 | Date  | Start - End |  Activities |
