@@ -13,7 +13,6 @@
 * Report (40%) Create a report for all Labs / VM and oral presentation
 * Report (10%) Create a report for all TryHackMe / rootme challenges listed bellow the planning a little explanation of what you did with screenshots
 
-  
 | WEBSITE | Module | M2 SYRIUS |  M2 ILSEN |  URL |
 | :---: | :---: | :---: | :---: | ------------- |
 | TRYHACKME | NMAP  | :heavy_check_mark: | :heavy_check_mark: | https://tryhackme.com/room/furthernmap |
@@ -30,8 +29,8 @@
 | RootMe  | Programmation => TCP - Uncompress Me | :x: | :heavy_check_mark: | https://www.root-me.org/fr/Challenges/Programmation/TCP-Uncompress-Me
 | RootMe  | Programmation => CAPTCHA me if you can | :x: | :heavy_check_mark: | https://www.root-me.org/fr/Challenges/Programmation/CAPTCHA-me-if-you-can
 
-## 📢 Rating UCE 4 : Application :
-* Exam (100%) Create a report for your application : https://github.com/nicosmash/Universities/tree/main/Applications
+~~## 📢 Rating UCE 4 : Application :~~
+~~* Exam (100%) Create a report for your application : https://github.com/nicosmash/Universities/tree/main/Applications~~
 
 ## 📢 Work schedule M2 ILSEN :
 | Date  | Start - End |  Type |  Activities |
