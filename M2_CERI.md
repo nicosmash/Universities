@@ -33,7 +33,7 @@
 
 ## 📢 Work schedule M2 ILSEN :
 | Date  | Start - End | Total |  Classique |  Alternant |  Activities |
-| :---: | :---------: | :---------: | :---------: | ------------- |
+| :---: | :---------: | :---------: | :---------: | :---------: | ------------- |
 | 24/09/2024  | 8h30 - 11h30 <br> 13h00 - 19h00 | 9h | :x: | :heavy_check_mark: | Course |
 | 16/10/2024  | 8h30 - 11h30 | 3h | :heavy_check_mark: | :heavy_check_mark: | Course + Lab |
 | 16/10/2024  | 13h00 - 16h00 | 3h | :heavy_check_mark: | :x: | Course + Lab |
