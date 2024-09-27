@@ -51,12 +51,12 @@
 | 05/12/2024  | 16h00 - 19h00 | 3h | :heavy_check_mark: | :x: | Lab |
 
 ## 📢 Work schedule M2 SYRIUS :
-| Date  | Start - End |  Activities |
-| :---: | :---------: | ------------- |
-| 20/09/2024  | 8h30 - 11h30 | Course |
-| 07/10/2024  | 8h30 - 11h30 | Course + Lab |
-| 05/12/2024  | 8h30 - 11h30 <br> 13h00 - 16h00 | Course + Lab |
-| 11/12/2024  | 8h30 - 11h30 | Course + Lab |
-| 12/12/2024  | 14h30 - 17h30 | Course + Lab |
-| 16/12/2024  | 8h30 - 11h30 <br> 13h00 - 16h00 | Course + Lab |
-| 17/12/2024  | 8h30 - 11h30 | Course + Lab |
+| Date  | Start - End | Total |  Activities |
+| :---: | :---------: | :---------: | ------------- |
+| 20/09/2024  | 8h30 - 11h30 | 3h00 | Course |
+| 07/10/2024  | 8h30 - 11h30 | 3h00 | Course + Lab |
+| 05/12/2024  | 8h30 - 11h30 <br> 13h00 - 16h00 | 6h00 | Course + Lab |
+| 11/12/2024  | 8h30 - 11h30 | 3h00 | Course + Lab |
+| 12/12/2024  | 14h30 - 17h30 | 3h00 | Course + Lab |
+| 16/12/2024  | 8h30 - 11h30 <br> 13h00 - 16h00 | 6h00 | Course + Lab |
+| 17/12/2024  | 8h30 - 11h30 | 3h00 | Course + Lab |
