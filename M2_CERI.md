@@ -31,7 +31,7 @@
 ~~## 📢 Rating UCE 4 : Application :~~
 ~~* Exam (100%) Create a report for your application : https://github.com/nicosmash/Universities/tree/main/Applications~~
 
-## 📢 Work schedule M2 ILSEN :
+## 📢 Work schedule M2 ILSEN (total 27 hours) :
 | Date  | Start - End | Total |  Classique |  Alternant |  Activities |
 | :---: | :---------: | :---------: | :---------: | :---------: | ------------- |
 | 24/09/2024  | 8h30 - 11h30 <br> 13h00 - 19h00 | 9h | :heavy_check_mark: | :x: | Course + Lab |
@@ -50,7 +50,7 @@
 | 04/12/2024  | 14h30 - 17h30 | 3h | :heavy_check_mark: | :x: | Lab |
 | 05/12/2024  | 16h00 - 19h00 | 3h | :heavy_check_mark: | :x: | Lab |
 
-## 📢 Work schedule M2 SYRIUS :
+## 📢 Work schedule M2 SYRIUS (total 18 hours / planned 27 hours) :
 | Date  | Start - End | Total |  Activities |
 | :---: | :---------: | :---------: | ------------- |
 | 20/09/2024  | 8h30 - 11h30 | 3h00 | Course |
