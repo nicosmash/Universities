@@ -31,6 +31,23 @@
 ~~## 📢 Rating UCE 4 : Application :~~
 ~~* Exam (100%) Create a report for your application : https://github.com/nicosmash/Universities/tree/main/Applications~~
 
+## 📢 Work schedule M2 ILSEN (Propal to do 27 hours) :
+| Date  | Start - End | Total |  Classique |  Alternant |  Activities |
+| :---: | :---------: | :---------: | :---------: | :---------: | ------------- |
+| 24/09/2024  | 8h30 - 11h30 <br> 13h00 - 19h00 | 9h | :heavy_check_mark: | :x: | Course + Lab |
+| 16/10/2024  | 8h30 - 11h30 | 3h | :heavy_check_mark: | :heavy_check_mark: | Course + Lab |
+| 16/10/2024  | 13h00 - 16h00 | 3h | :heavy_check_mark: | :x: | Course + Lab |
+| 16/10/2024  | 16h00 - 19h00 | 3h | :x: | :heavy_check_mark: | Course + Lab |
+| 05/11/2024  | 8h30 - 11h30 | 3h | :heavy_check_mark: | :heavy_check_mark: | Course + Lab |
+| 05/11/2024  | 13h00 - 16h00 | 3h | :heavy_check_mark: | :x: | Course + Lab |
+| 05/11/2024  | 16h00 - 19h00 | 3h | :x: | :heavy_check_mark: | Course + Lab |
+| 06/11/2024  | 8h30 - 11h30 | 3h | :heavy_check_mark: | :heavy_check_mark: | Course + Lab |
+| 06/11/2024  | 14h30 - 16h00 | 1h30 | :heavy_check_mark: | :heavy_check_mark: | Course + Lab |
+| 03/12/2024  | 10h00 - 13h00 | 3h | :x: | :heavy_check_mark: | Course + Lab |
+| 03/12/2024  | 14h30 - 16h00 | 1h30 | :x: | :heavy_check_mark: | Course + Lab |
+| 03/12/2024  | 16h00 - 17h30 | 1h30 | :heavy_check_mark: | :x: | Course + Lab |
+| 04/12/2024  | 11h30 - 13h00 | 1h30 | :heavy_check_mark: | :heavy_check_mark: | Exam |
+
 ## 📢 Work schedule M2 ILSEN (total 27 hours) :
 | Date  | Start - End | Total |  Classique |  Alternant |  Activities |
 | :---: | :---------: | :---------: | :---------: | :---------: | ------------- |
