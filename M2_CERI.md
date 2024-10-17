@@ -15,7 +15,7 @@
 | WEBSITE | Module | M2 SYRIUS |  M2 ILSEN |  URL |
 | :---: | :---: | :---: | :---: | ------------- |
 | TRYHACKME | NMAP  | :heavy_check_mark: | :heavy_check_mark: | https://tryhackme.com/room/furthernmap |
-| TRYHACKME | BURP  | :heavy_check_mark: | :heavy_check_mark: | https://tryhackme.com/room/burpsuitebasics |
+| TRYHACKME | BURP  | :heavy_check_mark: | :heavy_check_mark: | https://tryhackme.com/r/room/burpsuiterepeater |
 | TRYHACKME | SQLMAP  | :heavy_check_mark: | :heavy_check_mark: | https://tryhackme.com/room/sqlmap |
 | TRYHACKME | METASPLOIT  | :heavy_check_mark: | :heavy_check_mark: | https://tryhackme.com/room/metasploitintro |
 | RootMe | App-Script => Bash - System 1  | :x: | :heavy_check_mark: | https://www.root-me.org/fr/Challenges/App-Script/Bash-System-1 |
