@@ -1,9 +1,9 @@
-# IMT Alès "Promotion 1"
+# IMT Alès
 
 ## 📢 Information for all students
 
-* Teams Link : https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWI2YzFjMDMtMWU3Yi00MWM5LTgxZGEtMzU4MTdkNmVkOTIx%40thread.v2/0?context=%7b%22Tid%22%3a%22fb3baf17-c313-474c-8d5d-577a3ec97a32%22%2c%22Oid%22%3a%22a555e559-d61b-4a5c-9fcc-ba130e93aa72%22%7d
-* If you are having difficulty ask your teacher for the Discord link : https://discord.gg/VEGK8ErNm5
+* Meeting Link : TODO
+* If you are having difficulty ask your teacher for the Discord link : TODO
 * Courses : https://github.com/nicosmash/Universities/blob/main/Courses/README.md
 * Labs : https://github.com/nicosmash/Universities/blob/main/Labs/README.md
 
@@ -17,7 +17,11 @@
     * Metasploit : https://tryhackme.com/room/metasploitintro 
 
 ## 📢 Work schedule :
-| Class  | Date  | Start - End |  Activities |
+| Class  | Date  | Start - End |  Info |
 | :---: | :---: | :---------: | ------------- |
-| SR  | 19/10/2023  | 8h30 - 12h15 <br> 13h30 - 17h15  | Salle B204 : 7h30 |
-| DL  | 20/10/2023  | 8h30 - 12h00 <br> 13h00 - 15h00  | Salle B213 : 7h30 |
+| SR  | 07/11/2024  | 9h - 12h15 <br> 13h00 - 16h30  | Salle C304 : 6h45 |
+| DL  | 08/11/2024  | 9h - 12h15 <br> 13h00 - 16h30  | Salle C303 : 6h45 |
+| DL  | 14/11/2024  | 8h30 - 12h15 <br> 13h30 - 17h15  | Salle B204 : 7h30 |
+| SR  | 15/11/2024  | 8h30 - 12h15 <br> 13h30 - 17h15  | Salle B204 : 7h30 |
+| SR  | 21/11/2024  | 8h30 - 12h15 <br> 13h30 - 17h15  | Salle B204 : 7h30 |
+| DL  | 22/11/2024  | 8h30 - 12h15 <br> 13h30 - 17h15  | Salle B208 : 7h30 |
