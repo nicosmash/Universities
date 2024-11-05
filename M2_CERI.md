@@ -49,7 +49,7 @@
 | 14/11/2024  | 16h00 - 19h00 | 3h | :x: | :heavy_check_mark: | Course + Lab |
 | 03/12/2024  | 10h00 - 13h00 | 3h | :x: | :heavy_check_mark: | Exam + Lab |
 | 03/12/2024  | 14h30 - 16h00 | 1h30 | :x: | :heavy_check_mark: | Course + Lab |
-| 03/12/2024  | 16h00 - 17h30 | 1h30 | :heavy_check_mark: | :x: | Exam + Lab |
+| 03/12/2024  | 16h00 - 17h30 | 1h30 | :heavy_check_mark: | :x: | Exam |
 
 ## 📢 Work schedule M2 SYRIUS (total 18 hours / planned 27 hours) :
 | Date  | Start - End | Total |  Activities |
