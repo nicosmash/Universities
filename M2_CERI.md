@@ -42,13 +42,14 @@
 | 05/11/2024  | 13h00 - 16h00 | 3h | :heavy_check_mark: | :x: | Course + Lab |
 | 05/11/2024  | 16h00 - 19h00 | 3h | :x: | :heavy_check_mark: | Course + Lab |
 | 06/11/2024  | 8h30 - 11h30 | 3h | :heavy_check_mark: | :heavy_check_mark: | Course + Lab |
+| 06/11/2024  | 13h00 - 14h30 | 1h30 | :x: | :heavy_check_mark: | Course + Lab |
 | 06/11/2024  | 14h30 - 16h00 | 1h30 | :heavy_check_mark: | :heavy_check_mark: | Course + Lab |
+| 06/11/2024  | 16h00 - 17h30 | 1h30 | :heavy_check_mark: | :x: | Course + Lab |
 | 12/11/2024  | 16h00 - 19h00 | 3h | :x: | :heavy_check_mark: | Course + Lab |
 | 14/11/2024  | 16h00 - 19h00 | 3h | :x: | :heavy_check_mark: | Course + Lab |
-| 03/12/2024  | 10h00 - 13h00 | 3h | :x: | :heavy_check_mark: | Course + Lab |
+| 03/12/2024  | 10h00 - 13h00 | 3h | :x: | :heavy_check_mark: | Exam + Lab |
 | 03/12/2024  | 14h30 - 16h00 | 1h30 | :x: | :heavy_check_mark: | Course + Lab |
-| 03/12/2024  | 16h00 - 17h30 | 1h30 | :heavy_check_mark: | :x: | Course + Lab |
-| 04/12/2024  | 11h30 - 13h00 | 1h30 | :heavy_check_mark: | :heavy_check_mark: | Exam |
+| 03/12/2024  | 16h00 - 17h30 | 1h30 | :heavy_check_mark: | :x: | Exam + Lab |
 
 ## 📢 Work schedule M2 SYRIUS (total 18 hours / planned 27 hours) :
 | Date  | Start - End | Total |  Activities |
