@@ -2,10 +2,9 @@
 
 ## 📢 Information for all students
 
-* Meeting Link : TODO
-* If you are having difficulty ask your teacher for the Discord link : TODO
-* Courses : https://github.com/nicosmash/Universities/blob/main/Courses/README.md
-* Labs : https://github.com/nicosmash/Universities/blob/main/Labs/README.md
+* If you are having difficulty ask your teacher for the Discord link : https://discord.gg/REup49Z
+    * Courses : https://github.com/nicosmash/Universities/blob/main/Courses/README.md
+    * Labs : https://github.com/nicosmash/Universities/blob/main/Labs/README.md
 
 ## 📢 Rating :
 * Exam (50%) QCM with about 100 questions
