@@ -6,7 +6,7 @@
     * Courses : https://github.com/nicosmash/Universities/blob/main/Courses/README.md
     * Labs : https://github.com/nicosmash/Universities/blob/main/Labs/README.md
 
-## 📢 Rating (no date is planned so for the moment I propose the deadline on December 31st) :
+## 📢 Rating (no date is planned so I propose the deadline on December 31st) :
 * Exam (50%) QCM with about 100 questions
 * Report (40%) Create a report for all VM and oral presentation
 * Report (10%) Create a report for all TryHackMe challenges listed bellow the planning a little explanation of what you did with screenshots
