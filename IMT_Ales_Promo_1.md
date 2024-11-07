@@ -5,6 +5,8 @@
 * If you are having difficulty ask your teacher for the Discord link : https://discord.gg/REup49Z
     * Courses : https://github.com/nicosmash/Universities/blob/main/Courses/README.md
     * Labs : https://github.com/nicosmash/Universities/blob/main/Labs/README.md
+* All reports (TryHackMe and Vulnhub) you can use one document with all reports.
+* Reports (TryHackMe and Vulnhub) should be sent on Discord in one to one.
 
 ## 📢 Rating (no date is planned so I propose the deadline on December 31st) :
 * Exam (50%) QCM with about 100 questions
@@ -13,7 +15,7 @@
     * Nmap : https://tryhackme.com/room/furthernmap
     * Burp : https://tryhackme.com/room/burpsuitebasics
     * SQLmap : https://tryhackme.com/room/sqlmap
-    * Metasploit : https://tryhackme.com/room/metasploitintro 
+    * Metasploit : https://tryhackme.com/room/metasploitintro
 
 ## 📢 Work schedule :
 | Class  | Date  | Start - End |  Info |
