@@ -2,7 +2,7 @@
 
 ## 📢 Information for all students
 
-* If you are having difficulty ask your teacher for the Discord link : https://discord.gg/REup49Z
+* If you are having difficulty ask your teacher for the Discord link : https://discord.gg/9h4sZFN
     * Courses : https://github.com/nicosmash/Universities/blob/main/Courses/README.md
     * Labs : https://github.com/nicosmash/Universities/blob/main/Labs/README.md
 * All reports (TryHackMe and Vulnhub) you can use one document with all reports.
