@@ -13,7 +13,7 @@
 * Report (40%) Create a report for all VM and oral presentation
 * Report (10%) Create a report for all TryHackMe challenges listed bellow the planning a little explanation of what you did with screenshots
     * Nmap : https://tryhackme.com/room/furthernmap
-    * Burp : https://tryhackme.com/room/burpsuitebasics
+    * Burp : https://tryhackme.com/r/room/burpsuiterepeater
     * SQLmap : https://tryhackme.com/room/sqlmap
     * Metasploit : https://tryhackme.com/room/metasploitintro
 
