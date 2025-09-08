@@ -1,12 +1,5 @@
 # M2 "CERI Avignon"
 
-## 📢 Information for all students
-
-* If you are having difficulty ask your teacher on the Discord link
-    * SYRIUS : https://discord.gg/Ga4CQJfm
-    * ILSEN : https://discord.gg/fjjjneGZ
-* Courses : https://github.com/nicosmash/Universities/blob/main/Courses/README.md
-
 ## 📢 Rating UCE : 
 * Exam (50%) QCM with about 100 questions
 * Report (40%) Create a report for all Labs / VM and oral presentation : https://github.com/nicosmash/Universities/blob/main/Labs/VirtualLab_What_to_do.md
