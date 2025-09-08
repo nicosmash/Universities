@@ -1,7 +1,10 @@
 # Universities
 
-| Classroom  | Link |
+| Resource  | Link |
 | :---------: | ------------- |
-| IMT | https://github.com/nicosmash/Universities/blob/main/IMT_Ales_Promo_1.md |
-| M2 "CERI Avignon" | https://github.com/nicosmash/Universities/blob/main/M2_CERI.md |
-| L3 "LP" | https://github.com/nicosmash/Universities/blob/main/L3.md |
+| Courses | On Discord |
+| Labs - Vulnhub | https://github.com/nicosmash/Universities/tree/main/Labs |
+| TryHackMe | TODO |
+| RootMe | TODO |
+| Project | https://github.com/nicosmash/Universities/blob/main/L3.md |
+| DVWA | https://github.com/nicosmash/Universities/tree/main/DVWA |
