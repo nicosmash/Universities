@@ -1,5 +1,7 @@
 ## 📢 List of TryHackMe activities :
 
+* For all TryHackMe challenges listed below, give an explanation of what you learned in the module.
+
 | Module | L3 | IMT SR | IMT DL | M2 Infra |  M2 Ingé |  URL |
 | ------ | :---: | :---: | :---: | :---: | :---: | ------------- |
 | NMAP  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | https://tryhackme.com/room/furthernmap |
