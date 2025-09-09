@@ -1,6 +1,6 @@
 ## 📢 List of RootMe activities :
 
-* RootMe : for all RootMe challenges listed below, give an explanation of what you did and add at one screenshot
+* For all RootMe challenges listed below, give an explanation of what you did and add at one screenshot
 
 | Module | L3 | IMT SR | IMT DL | M2 Infra | M2 Ingé |  URL |
 | ------ | :---: | :---: | :---: | :---: | :---: | ------------- |
