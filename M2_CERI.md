@@ -20,24 +20,3 @@
 | RootMe  | Programmation => TCP - La roue romaine | :x: | :heavy_check_mark: | https://www.root-me.org/fr/Challenges/Programmation/TCP-La-roue-romaine
 | RootMe  | Programmation => TCP - Uncompress Me | :x: | :heavy_check_mark: | https://www.root-me.org/fr/Challenges/Programmation/TCP-Uncompress-Me
 | RootMe  | Programmation => CAPTCHA me if you can | :x: | :heavy_check_mark: | https://www.root-me.org/fr/Challenges/Programmation/CAPTCHA-me-if-you-can
-
-~~## 📢 Rating UCE 4 : Application :~~
-~~* Exam (100%) Create a report for your application : https://github.com/nicosmash/Universities/tree/main/Applications~~
-
-## 📢 Work schedule M2 ILSEN (total 28,5 hours) :
-| Date  | Start - End | Total |  Classique |  Alternant |  Activities |
-| :---: | :---------: | :---------: | :---------: | :---------: | ------------- |
-| 03/12/2024  | 10h00 - 13h00 | 3h | :x: | :heavy_check_mark: | Exam + Lab |
-| 03/12/2024  | 14h30 - 16h00 | 1h30 | :x: | :heavy_check_mark: | Course + Lab |
-| 03/12/2024  | 16h00 - 17h30 | 1h30 | :heavy_check_mark: | :x: | Exam |
-
-## 📢 Work schedule M2 SYRIUS (total 18 hours / planned 27 hours) :
-| Date  | Start - End | Total |  Activities |
-| :---: | :---------: | :---------: | ------------- |
-| 20/09/2024  | 8h30 - 11h30 | 3h00 | Course |
-| 07/10/2024  | 8h30 - 11h30 | 3h00 | Course + Lab |
-| 05/12/2024  | 8h30 - 11h30 <br> 13h00 - 16h00 | 6h00 | Course + Lab |
-| 11/12/2024  | 8h30 - 11h30 | 3h00 | Course + Lab |
-| 12/12/2024  | 14h30 - 17h30 | 3h00 | Course + Lab |
-| 16/12/2024  | 8h30 - 11h30 <br> 13h00 - 16h00 | 6h00 | Course + Lab + Exam |
-| 17/12/2024  | 8h30 - 11h30 | 3h00 | Lab |
